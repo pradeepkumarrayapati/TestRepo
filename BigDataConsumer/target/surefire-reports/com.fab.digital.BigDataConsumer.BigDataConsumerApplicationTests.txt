@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.fab.digital.BigDataConsumer.BigDataConsumerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.942 s - in com.fab.digital.BigDataConsumer.BigDataConsumerApplicationTests
